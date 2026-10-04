@@ -1,0 +1,6 @@
+{
+  "name": "مليونير",
+  "description": "تطبيق إدارة المصروفات والدخل والديون وحاسبة الزكاة والميزانية مع مستشار مالي بالذكاء الاصطناعي ومكافآت يومية",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
